@@ -30,6 +30,6 @@ int main(){
 //     int a=4;
 //     for(int i=1;i<=n;i++){
 //         cout<<a<<" ";
-//         a=a+3;
+//         a=a+3; // For GP just do a=a*r; r=common ratio
 //     }
 // }
